@@ -1,2 +1,2 @@
 # ProjectsUniversity
-These are all my exercices made during the college separeted by subjects
+These are my projects and activities during my first contact with progamming on graduation in Computer Science at UFG (Federal University of Goiás) separeted by subjects
