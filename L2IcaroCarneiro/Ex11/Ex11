@@ -1,0 +1,1 @@
+Para que ocorra as operações de Enfileira e Desenfileira sobre uma única lista vazia e deixe a fila vazia sem causar overflow a lista apenas deve estar devidamente inicializada. Como ela estará vazia de início, após o Enfileirar ela terá um termo e depois do Desenfileirar voltará a ficar vazia
