@@ -5,5 +5,7 @@ This program receives a list and creates a hash table to search by the registrat
 To run the code in your computer you just need to: 
 - Open the paste in the terminal
 - Whrite this sequence of lines bellow:
+
 gcc Hash-TAD-main.c -o main Hash-TAD-C.c
+
 ./main < HashDados
