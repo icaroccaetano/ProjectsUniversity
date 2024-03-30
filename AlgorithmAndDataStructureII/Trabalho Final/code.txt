@@ -1,0 +1,24 @@
+#include <stdio.h>
+
+int main (){
+
+  int a;
+  int float;
+  float b;;
+
+  a = 0;;
+  b = 0;
+
+  while (a < 5){
+    b = b + 0.5
+    a++;
+  }
+
+  for (;) b = a;
+
+  for (int i = 0; i <= 3; i++){
+    a += b;
+    b--;
+  }
+  
+  return 0;
